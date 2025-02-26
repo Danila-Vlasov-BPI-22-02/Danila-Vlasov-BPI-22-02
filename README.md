@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi! I'm [Danila]
 
-<!--
-**Danila-Vlasov-BPI-22-02/Danila-Vlasov-BPI-22-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Образование
+- [UGNTU], [Student], [3. kurs]
 
-Here are some ideas to get you started:
+## Опыт работы
+- [keine Berufserfahrung].
+  - Описание ваших обязанностей и достижений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Навыки
+- [Blender 3D]
+- [photoshop]
+- [UNPRogrammierer]
+
+## Контакты
+- Email: [Vlasovdanila77@gmail.com]
+- LinkedIn: [https://github.com/Danila-Vlasov-BPI-22-02]
 -->
