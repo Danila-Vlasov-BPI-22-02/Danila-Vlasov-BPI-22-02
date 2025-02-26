@@ -6,6 +6,7 @@
 ## Опыт работы
 - [keine Berufserfahrung].
   - Описание ваших обязанностей и достижений.
+Ich lebe seit 21 Jahren auf der Erde
 
 ## Навыки
 - [Blender 3D]
